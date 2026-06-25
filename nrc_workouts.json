@@ -1,0 +1,134 @@
+{
+  "workouts": [
+    {
+      "name": "First Speed Run",
+      "type": "intervals",
+      "duration_min": 22,
+      "difficulty": "beginner",
+      "structure": "5:00 חימום + 8 x 1:00 בקצב 5K + 1:00 מנוחה בין כל חזרה",
+      "focus": "היכרות ראשונה עם ריצת מהירות",
+      "intensity": "גבוהה (קצב 5K)",
+      "best_for": "תחילת עבודת מהירות, פיתוח VO2 Max"
+    },
+    {
+      "name": "Next Speed Run",
+      "type": "intervals",
+      "duration_min": 30,
+      "difficulty": "intermediate",
+      "structure": "5:00 חימום + 1:00 קצב 5K / 2:00 קצב 10K / 1:00 קצב 5K / 2 x 0:45 קצב מייל / 2:00 קצב 10K / 0:30 קצב מהיר + 1:00 מנוחה בין חזרות",
+      "focus": "ריצה בקצבים מגוונים",
+      "intensity": "גבוהה מאוד",
+      "best_for": "שיפור טווח קצבים, יעילות אירובית"
+    },
+    {
+      "name": "Faster Run",
+      "type": "intervals",
+      "duration_min": 25,
+      "difficulty": "intermediate",
+      "structure": "5:00 חימום + 2:00 קצב מייל / 0:30 קצב 10K / 1:30 קצב מייל / 0:30 קצב 10K / 1:00 קצב מייל / 0:30 קצב 10K / 0:30 קצב מהיר + 30 שניות מנוחה בין חזרות",
+      "focus": "מהירות בסיסית ושיפור VO2 Max",
+      "intensity": "גבוהה מאוד",
+      "best_for": "שיפור VO2 Max, פיתוח כוח אירובי"
+    },
+    {
+      "name": "No Time To Go",
+      "type": "intervals",
+      "duration_min": 20,
+      "difficulty": "intermediate",
+      "structure": "5:00 חימום + 1:00 קצב מייל / 2:00 קצב 5K / 3:00 קצב 10K / 2:00 קצב 5K / 1:00 קצב מייל + 1:00 מנוחה",
+      "focus": "פירמידת קצבים — עולה ויורדת",
+      "intensity": "גבוהה",
+      "best_for": "שיפור יעילות בקצבים שונים, אימון קצר ויעיל"
+    },
+    {
+      "name": "In Control",
+      "type": "intervals",
+      "duration_min": 25,
+      "difficulty": "intermediate",
+      "structure": "6:00 חימום + 1:00 קצב מייל / 3:00 קצב 5K / 5:00 קצב 10K / 7:00 קצב ריצה קלה + מנוחה: 0:30 / 1:30 / 2:30",
+      "focus": "שליטה בעצימות ומעברים בין קצבים",
+      "intensity": "בינונית-גבוהה",
+      "best_for": "פיתוח שליטה בדופק, מעבר חלק בין אזורים"
+    },
+    {
+      "name": "Run Strong. Repeat",
+      "type": "intervals",
+      "duration_min": 30,
+      "difficulty": "intermediate",
+      "structure": "חימום + 4 x 1:30 קצב 5K / 1 x 1:30 קצב מייל / 4 x 1:30 קצב 5K / 1 x 1:30 קצב מייל + 45 שניות מנוחה אחרי 5K",
+      "focus": "סיבולת מהירות, חזרות ארוכות יותר",
+      "intensity": "גבוהה",
+      "best_for": "בניית סיבולת אנאירובית, שיפור כוח ריצה"
+    },
+    {
+      "name": "One Hard. One Easy",
+      "type": "fartlek",
+      "duration_min": 22,
+      "difficulty": "beginner",
+      "structure": "חימום + 22:00 Fartlek: 1:00 קשה / 1:00 קל לסירוגין",
+      "focus": "היכרות עם Fartlek, שינויי קצב טבעיים",
+      "intensity": "בינונית",
+      "best_for": "פיתוח גמישות קצב, אימון מהנה ופחות מובנה"
+    },
+    {
+      "name": "One Hard. Two Easy",
+      "type": "fartlek",
+      "duration_min": 28,
+      "difficulty": "beginner",
+      "structure": "חימום + 21:00 Fartlek: 1:00 קשה / 2:00 קל לסירוגין",
+      "focus": "Fartlek עם יחס מנוחה גבוה יותר",
+      "intensity": "בינונית-נמוכה",
+      "best_for": "שחזור אקטיבי עם גירוי מהירות, יום אחרי אימון קשה"
+    },
+    {
+      "name": "Two Hard. One Easy",
+      "type": "fartlek",
+      "duration_min": 28,
+      "difficulty": "intermediate",
+      "structure": "חימום + Fartlek: 2:00 קשה / 1:00 קל לסירוגין",
+      "focus": "Fartlek עם עומס גבוה יותר",
+      "intensity": "בינונית-גבוהה",
+      "best_for": "בניית סיבולת אנאירובית, שיפור עמידות בעצימות"
+    },
+    {
+      "name": "Run Fast. Repeat",
+      "type": "intervals",
+      "duration_min": 37,
+      "difficulty": "advanced",
+      "structure": "חימום + חזרות ארוכות בקצב 5K-10K עם מנוחות מלאות",
+      "focus": "אימון מרתון/10K לרצים מנוסים",
+      "intensity": "גבוהה מאוד",
+      "best_for": "שיפור VO2 Max, הכנה לתחרות"
+    },
+    {
+      "name": "Out Strong. Back Fast",
+      "type": "tempo",
+      "duration_min": 30,
+      "difficulty": "intermediate",
+      "structure": "2K חימום + Tempo Run: יוצאים בקצב 10K, מסיימים מהר יותר",
+      "focus": "ריצת טמפו, נגמרת מהר מהתחלה",
+      "intensity": "בינונית-גבוהה",
+      "best_for": "שיפור סף לקטט, VO2 Max, הכנה ל-5K/10K"
+    },
+    {
+      "name": "8K Tempo Run",
+      "type": "tempo",
+      "duration_min": 45,
+      "difficulty": "advanced",
+      "structure": "2K חימום + 6K Tempo בקצב 10K-מרתון",
+      "focus": "טמפו ארוך לרצים מנוסים",
+      "intensity": "בינונית-גבוהה לאורך זמן",
+      "best_for": "סיבולת גבוהה, שיפור קצב מרתון, אחרי בסיס חזק"
+    },
+    {
+      "name": "Bowerman Track Club",
+      "type": "intervals",
+      "duration_min": 40,
+      "difficulty": "advanced",
+      "structure": "אימון אינטרוולים מלא בסגנון מסלול, חזרות ארוכות בעצימות גבוהה",
+      "focus": "אימון רמת מסלול מקצועי",
+      "intensity": "מקסימלית",
+      "best_for": "רצים מנוסים המכינים תחרות, לאחר בסיס סיבולת חזק"
+    }
+  ]
+}
