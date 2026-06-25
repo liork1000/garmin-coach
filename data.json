@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-25T15:02:20.957813",
-  "vo2max_current": null,
+  "fetched_at": "2026-06-25T23:48:38.386582",
+  "vo2max_current": 50.3,
   "last_activity_hr_zones": [
     {
       "zoneNumber": 1,
-      "secsInZone": 1049.994,
+      "secsInZone": 1572.975,
       "zoneLowBoundary": 126
     },
     {
       "zoneNumber": 2,
-      "secsInZone": 1297.0,
+      "secsInZone": 1032.348,
       "zoneLowBoundary": 139
     },
     {
       "zoneNumber": 3,
-      "secsInZone": 547.95,
+      "secsInZone": 6.999,
       "zoneLowBoundary": 152
     },
     {
       "zoneNumber": 4,
-      "secsInZone": 108.003,
+      "secsInZone": 0.0,
       "zoneLowBoundary": 166
     },
     {
@@ -29,6 +29,22 @@
     }
   ],
   "activities": [
+    {
+      "date": "2026-06-25 20:20:06",
+      "workout_type": null,
+      "name": "Running",
+      "distance_km": 5.14,
+      "duration_minutes": 45.04,
+      "pace_min_per_km": "8:45",
+      "average_hr": 136.0,
+      "max_hr": 155.0,
+      "avg_cadence_spm": 149.953125,
+      "training_effect_aerobic": 2.299999952316284,
+      "training_effect_anaerobic": 0.0,
+      "training_load": null,
+      "vo2max_estimate": 50.0,
+      "calories": 422.0
+    },
     {
       "date": "2026-06-22 19:11:43",
       "workout_type": "טכניקה",
@@ -332,22 +348,6 @@
       "training_load": null,
       "vo2max_estimate": 49.0,
       "calories": 356.0
-    },
-    {
-      "date": "2026-05-06 21:15:29",
-      "workout_type": "מהירות",
-      "name": "Running",
-      "distance_km": 6.28,
-      "duration_minutes": 40.75,
-      "pace_min_per_km": "6:29",
-      "average_hr": 144.0,
-      "max_hr": 177.0,
-      "avg_cadence_spm": 133.453125,
-      "training_effect_aerobic": 3.299999952316284,
-      "training_effect_anaerobic": 2.200000047683716,
-      "training_load": null,
-      "vo2max_estimate": null,
-      "calories": 427.0
     }
   ]
 }
