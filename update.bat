@@ -4,6 +4,11 @@ echo Fetching latest Garmin data...
 cd /d "C:\Users\LiorKeren\garmin-coach"
 python fetch_data.py
 
+echo Pushing latest data to GitHub...
+git add data.json
+git commit -m "Update: latest Garmin data"
+git push origin main
+
 echo.
 echo Detecting local IP...
 for /f "tokens=2 delims=:" %%a in ('ipconfig ^| findstr /i "IPv4" ^| findstr /v "169.254" ^| findstr /v "127.0"') do (
